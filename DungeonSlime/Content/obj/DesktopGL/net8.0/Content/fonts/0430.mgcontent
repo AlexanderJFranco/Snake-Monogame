@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/Alexa/OneDrive/Desktop/New folder (2)/DungeonSlime/Content/fonts/0430.spritefont</SourceFile>
+  <SourceTime>2025-07-17T08:50:01.2902782-04:00</SourceTime>
+  <DestFile>C:/Users/Alexa/OneDrive/Desktop/New folder (2)/DungeonSlime/Content/bin/DesktopGL/Content/fonts/0430.xnb</DestFile>
+  <DestTime>2025-07-17T08:50:10.5813984-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2025-06-02T06:31:02-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2025-06-02T06:31:02-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
